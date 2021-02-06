@@ -24,5 +24,6 @@ public final class Constants {
         public static final double COUNTS_PER_REVOLUTION = 1440.0;
         public static final double WHEEL_DIAMETER_INCH = 2.75591;
         public static final double INCHES_PER_PULSE = (Math.PI * WHEEL_DIAMETER_INCH) / COUNTS_PER_REVOLUTION;
+        public static final double TRACK_WIDTH_INCH = 5.875;
     }
 }
